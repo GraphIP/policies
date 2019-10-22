@@ -54,3 +54,10 @@ Therefore:
 The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
 
 Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+
+
+#### The purposes of processing
+
+The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Analytics, Interaction with live chat platforms, Contacting the User, Content performance and features testing (A/B testing), Data transfer outside the EU, Handling payments, Hosting and backend infrastructure, Infrastructure monitoring, Interaction with data collection platforms and other third parties, Location-based interactions, Managing contacts and sending messages, Managing landing and invitation pages and Tag Management.
+
+Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.
