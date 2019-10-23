@@ -114,9 +114,9 @@ Place of processing: United States – <a href="https://policies.google.com/priv
     <p>
 
 The Owner is allowed to transfer Personal Data collected within the EU to third countries (i.e. any country not part of the EU) only pursuant to a specific legal basis. Any such Data transfer is based on one of the legal bases described below.
-Users can inquire with the Owner to learn which legal basis applies to which specific service.<br><br>
+Users can inquire with the Owner to learn which legal basis applies to which specific service.
 
-<h6 style="color:#848484">Data transfer abroad based on standard contractual clauses (this Application)</h6><br>
+<h6 style="color:#848484">Data transfer abroad based on standard contractual clauses (this Application)</h6>
 
 If this is the legal basis, the transfer of Personal Data from the EU to third countries is carried out by the Owner according to “standard contractual clauses” provided by the European Commission.
 This means that Data recipients have committed to process Personal Data in compliance with the data protection standards set forth by EU data protection legislation. For further information, Users are requested to contact the Owner through the contact details provided in the present document.
