@@ -61,3 +61,37 @@ Once the retention period expires, Personal Data shall be deleted. Therefore, th
 The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Analytics, Interaction with live chat platforms, Contacting the User, Content performance and features testing (A/B testing), Data transfer outside the EU, Handling payments, Hosting and backend infrastructure, Infrastructure monitoring, Interaction with data collection platforms and other third parties, Location-based interactions, Managing contacts and sending messages, Managing landing and invitation pages and Tag Management.
 
 Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.
+
+#### Detailed information on the processing of Personal Data
+
+Personal Data is collected for the following purposes and using the following services:
+
+<table>
+  <tr>
+    <td style="vertical-align:top">
+      <h4>Analytics</h4>
+      <p>
+      The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+<h4>Google Analytics (Google Inc.)</h4>
+
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+
+Personal Data collected: Cookies; Usage Data.
+
+Place of processing: United Kingdom – <a href="https://www.google.com/intl/en/policies/privacy/">Privacy Policy</a> – <a href="https://tools.google.com/dlpage/gaoptout?hl=en">Opt Out</a>. Privacy Shield participant.</p>
+    </td>
+    <td style="vertical-align:top">
+    <h4>Contacting the User</h4>
+    <p>
+
+<h4>Mailing list or newsletter (this Application)</h4>
+
+By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
+
+Personal Data collected: email address.
+
+  </p>
+    </td>
+  </tr>
+</table>
