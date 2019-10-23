@@ -110,10 +110,8 @@ Personal Data collected: Cookies; Usage Data.
 Place of processing: United States – <a href="https://policies.google.com/privacy">Privacy Policy</a>. Privacy Shield participant.</p>
     </td>
     <td style="vertical-align:top;padding:20px">
-    <h5>Contacting the User</h5>
+    <h5>Data transfer outside the EU</h5>
     <p>
-
-<h6 style="color:#848484">Data transfer outside the EU</h6>
 
 The Owner is allowed to transfer Personal Data collected within the EU to third countries (i.e. any country not part of the EU) only pursuant to a specific legal basis. Any such Data transfer is based on one of the legal bases described below.
 Users can inquire with the Owner to learn which legal basis applies to which specific service.<br><br>
