@@ -72,7 +72,7 @@ Personal Data is collected for the following purposes and using the following se
       <h5>Analytics</h5>
       <p>
       The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
-<h5>Google Analytics (Google Inc.)</h5>
+<h6 style="color:#848484">Google Analytics (Google Inc.)</h6>
 
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
@@ -85,7 +85,7 @@ Place of processing: United States – <a href="https://www.google.com/intl/en/p
     <h5>Contacting the User</h5>
     <p>
 
-<h5>Mailing list or newsletter (this Application)</h5>
+<h6 style="color:#848484">Mailing list or newsletter (this Application)</h6>
 
 By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
 
@@ -99,7 +99,7 @@ Personal Data collected: email address.
       <h5>Content performance and features testing (A/B testing)</h5>
       <p>
       The services contained in this section allow the Owner to track and analyze the User response concerning web traffic or behavior regarding changes to the structure, text or any other component of this Application.
-<h5>Google Analytics (Google Inc.)</h5>
+<h6 style="color:#848484">Google Analytics (Google Inc.)</h6>
 
 Google Optimize is an A/B testing service provided by Google LLC ("Google").
 
@@ -113,14 +113,12 @@ Place of processing: United States – <a href="https://policies.google.com/priv
     <h5>Contacting the User</h5>
     <p>
 
-<h5>Data transfer outside the EU</h5>
-
-
+<h6 style="color:#848484">Data transfer outside the EU</h6>
 
 The Owner is allowed to transfer Personal Data collected within the EU to third countries (i.e. any country not part of the EU) only pursuant to a specific legal basis. Any such Data transfer is based on one of the legal bases described below.
-Users can inquire with the Owner to learn which legal basis applies to which specific service.
+Users can inquire with the Owner to learn which legal basis applies to which specific service.<br><br>
 
-<h5>Data transfer abroad based on standard contractual clauses (this Application)</h5>
+<h6 style="color:#848484">Data transfer abroad based on standard contractual clauses (this Application)</h6><br>
 
 If this is the legal basis, the transfer of Personal Data from the EU to third countries is carried out by the Owner according to “standard contractual clauses” provided by the European Commission.
 This means that Data recipients have committed to process Personal Data in compliance with the data protection standards set forth by EU data protection legislation. For further information, Users are requested to contact the Owner through the contact details provided in the present document.
