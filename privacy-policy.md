@@ -150,7 +150,7 @@ Place of processing: United Kingdom – <a href="https://stripe.com/gb/legal">Pr
 
 Google Cloud Platform (GCP) is a hosting and backend service provided by Google LLC.
 
-Place of processing: United States – Privacy Policy; Canada – Privacy Policy; Brazil – Privacy Policy; United Kingdom – Privacy Policy; Germany – Privacy Policy; India – Privacy Policy; Australia – Privacy Policy; Korea, Republic of – Privacy Policy. Privacy Shield participant.
+Place of processing: United States – Canada – Brazil – United Kingdom – Ireland - Germany – India – Australia – <a href="https://policies.google.com/privacy">Privacy Policy</a>. Privacy Shield participant.
 
   </p>
     </td>
