@@ -122,7 +122,35 @@ If this is the legal basis, the transfer of Personal Data from the EU to third c
 This means that Data recipients have committed to process Personal Data in compliance with the data protection standards set forth by EU data protection legislation. For further information, Users are requested to contact the Owner through the contact details provided in the present document.
 
 Personal Data collected: various types of Data.
+  </p>
+    </td>
+  </tr>
 
+  <tr>
+    <td style="vertical-align:top;padding:20px">
+      <h5>Handling payments</h5>
+      <p>
+      Payment processing services enable this Application to process payments by credit card, bank transfer or other means. To ensure greater security, this Application shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction.
+Some of these services may also enable the sending of timed messages to the User, such as emails containing invoices or notifications concerning the payment.
+<h6 style="color:#848484">Stripe (Stripe Inc)</h6>
+
+
+
+Stripe is a payment service provided by Stripe Inc.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+
+Place of processing: United Kingdom – <a href="https://stripe.com/gb/legal">Privacy Policy</a>. Privacy Shield participant.</p>
+    </td>
+    <td style="vertical-align:top;padding:20px">
+    <h5>Hosting and backend infrastructure</h5>
+    <p>This type of service has the purpose of hosting Data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+
+<h6 style="color:#848484">Google Cloud Platform (GCP) (Google LLC)</h6>
+
+Google Cloud Platform (GCP) is a hosting and backend service provided by Google LLC.
+
+Place of processing: United States – Privacy Policy; Canada – Privacy Policy; Brazil – Privacy Policy; United Kingdom – Privacy Policy; Germany – Privacy Policy; India – Privacy Policy; Australia – Privacy Policy; Korea, Republic of – Privacy Policy. Privacy Shield participant.
 
   </p>
     </td>
