@@ -161,11 +161,11 @@ Place of processing: United States – Canada – Japan – United Kingdom – I
       <p>
       This type of service allows this Application to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.
 Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of this Application.
-<h6 style="color:#848484">Sentry (Functional Software, Inc. )</h6>
+<h6 style="color:#848484">Bugsnag Inc.</h6>
 
-Sentry is a monitoring service provided by Functional Software, Inc.
+Bugsnag is a monitoring service provided by Bugsnag Inc.
 
-Place of processing: United States – <a href="https://sentry.io/privacy/">Privacy Policy</a></p>
+Place of processing: United States – <a href="https://docs.bugsnag.com/legal/privacy-policy/">Privacy Policy</a></p>
     </td>
     <td style="vertical-align:top;padding:20px">
     <h5>Interaction with data collection platforms and other third parties</h5>
