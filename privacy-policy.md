@@ -150,7 +150,33 @@ Place of processing: United Kingdom – <a href="https://stripe.com/gb/legal">Pr
 
 Google Cloud Platform (GCP) is a hosting and backend service provided by Google LLC.
 
-Place of processing: United States – Canada – Brazil – United Kingdom – Ireland - Germany – India – Australia – <a href="https://policies.google.com/privacy">Privacy Policy</a>. Privacy Shield participant.
+Place of processing: United States – Canada – Japan – United Kingdom – Ireland - Germany – Brazil - Belgium – Australia – <a href="https://policies.google.com/privacy">Privacy Policy</a>. Privacy Shield participant.
+
+  </p>
+    </td>
+  </tr>
+  <tr>
+   <td style="vertical-align:top;padding:20px">
+      <h5>Infrastructure monitoring</h5>
+      <p>
+      This type of service allows this Application to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.
+Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of this Application.
+<h6 style="color:#848484">Sentry (Functional Software, Inc. )</h6>
+
+Sentry is a monitoring service provided by Functional Software, Inc.
+
+Place of processing: United States – <a href="https://sentry.io/privacy/">Privacy Policy</a></p>
+    </td>
+    <td style="vertical-align:top;padding:20px">
+    <h5>Interaction with data collection platforms and other third parties</h5>
+    <p>This type of service allows Users to interact with data collection platforms or other services directly from the pages of this Application for the purpose of saving and reusing data.
+If one of these services is installed, it may collect browsing and Usage Data in the pages where it is installed, even if the Users do not actively use the service.
+
+<h6 style="color:#848484">Mailchimp widget (The Rocket Science Group LLC)</h6>
+
+The Mailchimp widget is a service for interacting with the Mailchimp email address management and message sending service provided by The Rocket Science Group LLC.
+
+Place of processing: United States <a href="https://mailchimp.com/legal/privacy/">Privacy Policy</a>. Privacy Shield participant.
 
   </p>
     </td>
