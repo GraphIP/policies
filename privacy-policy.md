@@ -1,4 +1,4 @@
-We take our obligation to protect the privacy of your personal information seriously. AIGIS Ltd (AIGIS) complies fully with the General Data Protection Regulation (GDPR). This policy details what data we collect and how we handle and store that data.
+We take our obligation to protect the privacy of your personal information seriously. Lotus Labs Ltd (AIGIS UK) complies fully with the General Data Protection Regulation (GDPR). This policy details what data we collect and how we handle and store that data.
 
 #### What information do we collect?
 
